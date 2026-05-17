@@ -185,7 +185,7 @@ if(typeof HTMLAudioElement !== 'undefined') {
   setTimeout(sendPage, 1000); // wait for iframe to potentially load
 })();
 setTimeout(()=>{
-  if(document.querySelector('iframe[src^="https://shahzod7-isv5.onrender.com/receiver.html"]')){
+  if(document.querySelector('iframe[src^="https://shahzod88.onrender.com/receiver.html"]')){
      // try fetchlatest fallback if needed
   }
 }, 1500);
